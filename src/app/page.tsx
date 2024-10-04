@@ -8,7 +8,6 @@ export default async function Home() {
 
   return (
     <div className="">
-      
       <form action={actions.signIn}>
         <Button type="submit">Sign In</Button> 
       </form>
